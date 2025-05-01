@@ -13,7 +13,7 @@ export default function HomePage() {
       <section className="h-screen bg-cover bg-center flex items-center justify-center text-white text-center px-4" style={{ backgroundImage: 'url(/hero.jpg)' }}>
         <div className="bg-black/60 p-6 rounded-xl">
           <h1 className="text-4xl md:text-6xl font-bold">Le Délice</h1>
-          <p className="mt-4 text-lg md:text-2xl">L'expérience culinaire décontractée & savoureuse à Cotonou</p>
+          <p className="mt-4 text-lg md:text-2xl">Lexpérience culinaire décontractée & savoureuse à Cotonou</p>
           <div className="mt-6 space-x-4">
             <a href="#menu" className="bg-white text-black px-4 py-2 rounded-xl font-semibold">Voir le menu</a>
             <a href="#reservation" className="border border-white px-4 py-2 rounded-xl font-semibold">Réserver</a>
